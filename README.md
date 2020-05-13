@@ -86,3 +86,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1.jpeg)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2.jpeg)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.gif)
