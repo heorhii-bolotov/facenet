@@ -46,7 +46,7 @@ And also includes an implementation of MTCNN for face detection, fastest from th
 
 See `help(MTCNN)` and `help(InceptionResnetV1)` for usage and implementation details.
 
-### Example notebooks 
+## Example notebooks 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeefMILF/facenet/blob/master/facenet.ipynb)
 
@@ -60,7 +60,7 @@ This notebook demonstrates the use of packages:
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
 
-### Prerequisites
+## Prerequisites
 
 In order to run the example code in google colab you need to prepare separate folders for images dataset.  
 
