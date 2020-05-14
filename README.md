@@ -62,7 +62,9 @@ In this notebook was introduced a complete example pipeline utilizing datasets, 
 
 ## Prerequisites
 
-In order to run the example code in google colab you need to prepare separate folders for images dataset.  
+In order to run the example code in google colab you need to prepare separate folders for images dataset.
+
+Here is a link for project structure. When you download project on your google drive, it will have such path:  ```/content/drive/My Drive/Colab Notebooks/facenet/ ```
 
 ```
 facenet
