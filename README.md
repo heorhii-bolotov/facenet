@@ -54,6 +54,7 @@ This notebook demonstrates the use of packages:
 1. facenet-pytorch
 2. mtcnn 
 3. sklearn 
+4. albumentations
 
 ### *Complete detection and recognition pipeline*
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
