@@ -50,6 +50,11 @@ See `help(MTCNN)` and `help(InceptionResnetV1)` for usage and implementation det
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeefMILF/facenet/blob/master/facenet.ipynb)
 
+This notebook demonstrates the use of packages: 
+1. facenet-pytorch
+2. mtcnn 
+3. sklearn 
+
 ### *Complete detection and recognition pipeline*
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
