@@ -115,6 +115,8 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
 
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.MOV)
+
 ## More examples
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
