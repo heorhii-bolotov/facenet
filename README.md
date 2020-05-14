@@ -1,5 +1,4 @@
 # Face Recognition
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeefMILF/facenet/blob/master/facenet.ipynb)
 
 This is a repositiry for showcase usage of Inception Resnet (V1), pretrained on VGGFace2. Implementation from Tim Esler's [github repo](https://github.com/timesler/facenet-pytorch)
 
@@ -45,13 +44,16 @@ And also includes an implementation of MTCNN for face detection, fastest from th
     img_probs = resnet(img_cropped.unsqueeze(0))
     ```
 
-### Prerequisites
+See `help(MTCNN)` and `help(InceptionResnetV1)` for usage and implementation details.
 
-What things you need to install the software and how to install them
+### Example notebooks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeefMILF/facenet/blob/master/facenet.ipynb)
 
-```
-Give examples
-```
+### *Complete detection and recognition pipeline*
+In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
+
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
+
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
 
 ### Installing
 
@@ -125,11 +127,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
-![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1.jpeg)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2.jpeg)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1.gif)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2.gif)
-![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.gif)
