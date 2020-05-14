@@ -64,42 +64,30 @@ Project facenet
     |   +-- person1
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
     |   +-- person2
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
-    |   +-- ...    
 |   +-- train_images
     |   +-- person1
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
     |   +-- person2
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
-    |   +-- ...   
 |   +-- test_images_cropped
     |   +-- person1
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
     |   +-- person2
         |   +-- 1.png
-        |   +-- 2.png
-        |   +-- ...
-    |   +-- ...    
+        |   +-- 2.png 
 |   +-- train_images_cropped
     |   +-- person1
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
     |   +-- person2
         |   +-- 1.png
         |   +-- 2.png
-        |   +-- ...
-    |   +-- ...    
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
