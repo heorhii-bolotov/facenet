@@ -111,6 +111,8 @@ All embeddings from images were saved in ```data``` folder as ```trainEmbeds.npz
 
 Here we may see some obstacles, such as wrong-labelled classes and narrow-mindedness of our model(classifier predicts the most probable face among all known/trained, so it lacks of ability to distinguish known from unknown person, left 3 people were not in train dataset)
 
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1.jpeg)
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
