@@ -65,37 +65,37 @@ In this notebook was introduced a complete example pipeline utilizing datasets, 
 In order to run the example code in google colab you need to prepare separate folders for images dataset.  
 
 ```
-Project facenet
-+-- facenet.ipynb
-+-- data
-|   +-- test_images
-    |   +-- person1
-        |   +-- 1.png
-        |   +-- 2.png
-    |   +-- person2
-        |   +-- 1.png
-        |   +-- 2.png
-|   +-- train_images
-    |   +-- person1
-        |   +-- 1.png
-        |   +-- 2.png
-    |   +-- person2
-        |   +-- 1.png
-        |   +-- 2.png
-|   +-- test_images_cropped
-    |   +-- person1
-        |   +-- 1.png
-        |   +-- 2.png
-    |   +-- person2
-        |   +-- 1.png
-        |   +-- 2.png 
-|   +-- train_images_cropped
-    |   +-- person1
-        |   +-- 1.png
-        |   +-- 2.png
-    |   +-- person2
-        |   +-- 1.png
-        |   +-- 2.png
+facenet
+    +-- facenet.ipynb
+    +-- data
+    |   +-- test_images
+        |   +-- person1
+            |   +-- 1.png
+            |   +-- 2.png
+        |   +-- person2
+            |   +-- 1.png
+            |   +-- 2.png
+    |   +-- train_images
+        |   +-- person1
+            |   +-- 1.png
+            |   +-- 2.png
+        |   +-- person2
+            |   +-- 1.png
+            |   +-- 2.png
+    |   +-- test_images_cropped
+        |   +-- person1
+            |   +-- 1.png
+            |   +-- 2.png
+        |   +-- person2
+            |   +-- 1.png
+            |   +-- 2.png 
+    |   +-- train_images_cropped
+        |   +-- person1
+            |   +-- 1.png
+            |   +-- 2.png
+        |   +-- person2
+            |   +-- 1.png
+            |   +-- 2.png
 ```
 
 Note, ```<images folder>_cropped``` folders are automatically generated in code. All images should be (.png, jpeg, jpg) and converted to RGB automatically.
