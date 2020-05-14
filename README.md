@@ -138,7 +138,13 @@ Distances between embedding vectors
 
 ![](https://github.com/BeefMILF/facenet/blob/master/images/trainDists.png)
 
+![](https://github.com/BeefMILF/facenet/blob/master/images/trainDistsCos.png)
 
+Then we used a method called t-distributed Stochastic Neighbor Embedding(tSNE), which is especially good at visualizing high-dimensional data.
+
+![](https://github.com/BeefMILF/facenet/blob/master/images/tsne.png)
+
+As we see, some points(vectors) will be hard to distinguish.  
 
 ## Authors
 
