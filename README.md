@@ -64,7 +64,7 @@ In this notebook was introduced a complete example pipeline utilizing datasets, 
 
 In order to run the example code in google colab you need to prepare separate folders for images dataset.
 
-Here is a [link](https://drive.google.com/open?id=153_VqbkCfcCYKmQY8ZuWR40FbTUx0jHD) for project structure. When you download project on your google drive, it will have such path:  ```/content/drive/My Drive/Colab Notebooks/facenet/ ```
+Here is a [link](https://drive.google.com/open?id=1wfpGzuMy_6zQ_0e6ytC7FezTHGpXjwqj) for project structure. When you download project on your google drive, it will have such path:  ```/content/drive/My Drive/Colab Notebooks/facenet/ ```
 
 ```
 facenet
@@ -115,6 +115,8 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
 
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.MOV)
+
 ## More examples
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
@@ -126,8 +128,6 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 * **Dmytro Zikratyi** - *Initial work* - [shooterdimon](https://github.com/shooterdimon)
 * **Denis Moroz** - *Initial work* - [HPMortys](https://github.com/HPMortys)
 * **Denis Trishchuk** - *Initial work* - [krissayrose](https://github.com/krissayrose)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
