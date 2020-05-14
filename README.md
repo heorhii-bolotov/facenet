@@ -107,9 +107,9 @@ Following all the above, all cropped images can be ran through Inception Resnet 
 All embeddings from images were saved in ```data``` folder as ```trainEmbeds.npz``` and ```testEmbeds.npz```.
 
 
-## Running the tests
+## Face tracking in video streams 
 
-Explain how to run the automated tests for this system
+Here we may see some obstacles, such as wrong-labelled classes and narrow-mindedness of our model(classifier predicts the most probable face among all known/trained, so it lacks of ability to distinguish known from unknown person, left 3 people were not in train dataset)
 
 ### Break down into end to end tests
 
