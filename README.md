@@ -136,7 +136,7 @@ During training we had original 79-81 images. After getting embeddings each of s
 
 Distances between embedding vectors
 
-![](https://github.com/BeefMILF/facenet/blob/master/examples/trainDists.png)
+![](https://github.com/BeefMILF/facenet/blob/master/images/trainDists.png)
 
 
 
