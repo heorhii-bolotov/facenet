@@ -57,7 +57,7 @@ In this notebook was introduced a complete example pipeline utilizing datasets, 
 In order to run the example code in google colab you need to prepare separate folders for images dataset.  
 
 ```
-.
+Project facenet
 +-- facenet.ipynb
 +-- data
 |   +-- test_images
