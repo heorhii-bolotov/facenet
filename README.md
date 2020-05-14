@@ -1,7 +1,8 @@
 # Face Recognition
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeefMILF/facenet/blob/master/facenet.ipynb)
 
-This is a repositiry for showcase usage of Inception Resnet (V1), pretrained on VGGFace2.Implementation from Tim Esler's [github repo](https://github.com/timesler/facenet-pytorch)
+This is a repositiry for showcase usage of Inception Resnet (V1), pretrained on VGGFace2. Implementation from Tim Esler's [github repo](https://github.com/timesler/facenet-pytorch)
+And also includes an implementation of MTCNN for face detection, fastest from the available. 
 
 ## Getting Started
 
