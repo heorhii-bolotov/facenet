@@ -122,6 +122,24 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
 
+## Experiments
+
+Original test dataset
+
+![](https://github.com/BeefMILF/facenet/blob/master/images/test.png)
+
+Aligned images, preprocessed by MTNN detector. 
+
+![](https://github.com/BeefMILF/facenet/blob/master/images/test_aug.png)
+
+During training we had original 79-81 images. After getting embeddings each of size 512 by runnig through Inception Resnet model, we may observe: 
+
+Distances between embedding vectors
+
+![](https://github.com/BeefMILF/facenet/blob/master/examples/trainDists.png)
+
+
+
 ## Authors
 
 * **Heorgii Bolotov** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
