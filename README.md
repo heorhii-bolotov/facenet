@@ -50,9 +50,7 @@ See `help(MTCNN)` and `help(InceptionResnetV1)` for usage and implementation det
 
 ### *Complete detection and recognition pipeline*
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
-
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
-
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
 
 ### Installing
@@ -127,3 +125,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1.jpeg)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2.jpeg)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2.gif)
+![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.gif)
