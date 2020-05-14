@@ -52,20 +52,54 @@ See `help(MTCNN)` and `help(InceptionResnetV1)` for usage and implementation det
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
 
-### Installing
+### Prerequisites
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+In order to run the example code in google colab you need to prepare separate folders for images dataset.  
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+.
++-- facenet.ipynb
++-- data
+|   +-- test_images
+    |   +-- person1
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- person2
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- ...    
+|   +-- train_images
+    |   +-- person1
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- person2
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- ...   
+|   +-- test_images_cropped
+    |   +-- person1
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- person2
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- ...    
+|   +-- train_images_cropped
+    |   +-- person1
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- person2
+        |   +-- 1.png
+        |   +-- 2.png
+        |   +-- ...
+    |   +-- ...    
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
