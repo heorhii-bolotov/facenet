@@ -118,10 +118,6 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Heorgii Bolotov** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
