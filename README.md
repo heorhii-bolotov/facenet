@@ -128,12 +128,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/BeefMILF/facenet/blob/master/LICENSE) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
 ## References
 
 1. Tim Esler's facenet-pytorch [repo](https://github.com/timesler/facenet-pytorch): https://github.com/timesler/facenet-pytorch
