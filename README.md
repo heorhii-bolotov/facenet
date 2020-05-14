@@ -148,10 +148,10 @@ As we see, some points(vectors) will be hard to distinguish.
 
 ## Authors
 
-* **Heorgii Bolotov** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
-* **Dmytro Zikratyi** - *Initial work* - [shooterdimon](https://github.com/shooterdimon)
-* **Denis Moroz** - *Initial work* - [HPMortys](https://github.com/HPMortys)
-* **Denis Trishchuk** - *Initial work* - [krissayrose](https://github.com/krissayrose)
+* **Bolotov Heorgii** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
+* **Zikratyi Dmytro** - *Initial work* - [shooterdimon](https://github.com/shooterdimon)
+* **Moroz Denis** - *Initial work* - [HPMortys](https://github.com/HPMortys)
+* **Trishchuk Denis** - *Initial work* - [krissayrose](https://github.com/krissayrose)
 
 ## License
 
