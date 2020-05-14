@@ -109,7 +109,7 @@ All embeddings from images were saved in ```data``` folder as ```trainEmbeds.npz
 
 ## Face tracking in video streams 
 
-Here we may see some obstacles, such as wrong-labelled classes and narrow-mindedness of our model(classifier predicts the most probable face among all known/trained, so it lacks of ability to distinguish known from unknown person, left 3 people were not in train dataset)
+Here we may see some obstacles, such as wrong-labelled classes and narrow-mindedness of our model(classifier predicts the most probable face among all known/trained, so it lacks of ability to distinguish known from unknown person, right 3 people were not in train dataset)
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/1_aug.gif)
 
@@ -117,32 +117,6 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/1_aug.gif)
 ![](https://github.com/BeefMILF/facenet/blob/master/examples/images/2_aug.gif)
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
