@@ -129,8 +129,6 @@ Here we may see some obstacles, such as wrong-labelled classes and narrow-minded
 * **Denis Moroz** - *Initial work* - [HPMortys](https://github.com/HPMortys)
 * **Denis Trishchuk** - *Initial work* - [krissayrose](https://github.com/krissayrose)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/BeefMILF/facenet/blob/master/LICENSE) file for details
