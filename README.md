@@ -90,7 +90,14 @@ Project facenet
         |   +-- 2.png
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Note, ```<images folder>_cropped``` folders are automatically generated in code. All images should be (.png, jpeg, jpg) and converted to RGB automatically.
+
+Then, after preparing ```test_images``` and ```train_images```, we can easily apply face detection using MTCNN and save in ```<images folder>_cropped```. 
+
+Following all the above, all cropped images can be ran through Inception Resnet model in order to get embeddings or probabilities. In our case, we are getting embeddings to train on them SVM classifier from sklearn (best parameters were found by SearchGrid and saved in ```data``` folder as ```svm.sav```). To make our classifier more stable, some augmentations were applied(you can observe them in notebook). 
+
+All embeddings from images were saved in ```data``` folder as ```trainEmbeds.npz``` and ```testEmbeds.npz```.
+
 
 ## Running the tests
 
