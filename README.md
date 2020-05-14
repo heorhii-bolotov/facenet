@@ -7,7 +7,43 @@ And also includes an implementation of MTCNN for face detection, fastest from th
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1. Install:
+    ```bash
+    # With pip:
+    pip install facenet-pytorch
+    
+    # or clone this repo, removing the '-' to allow python imports:
+    git clone https://github.com/timesler/facenet-pytorch.git facenet_pytorch
+    
+    # or use a docker container (see https://github.com/timesler/docker-jupyter-dl-gpu):
+    docker run -it --rm timesler/jupyter-dl-gpu pip install facenet-pytorch && ipython
+    ```
+1. In python, import facenet-pytorch and instantiate models:
+    ```python
+    from facenet_pytorch import MTCNN, InceptionResnetV1
+    
+    # If required, create a face detection pipeline using MTCNN:
+    mtcnn = MTCNN(image_size=<image_size>, margin=<margin>)
+    
+    # Create an inception resnet (in eval mode):
+    resnet = InceptionResnetV1(pretrained='vggface2').eval()
+    ```
+1. Process an image:
+    ```python
+    from PIL import Image
+    
+    img = Image.open(<image path>)
+
+    # Get cropped and prewhitened image tensor
+    img_cropped = mtcnn(img, save_path=<optional save path>)
+
+    # Calculate embedding (unsqueeze to add batch dimension)
+    img_embedding = resnet(img_cropped.unsqueeze(0))
+
+    # Or, if using for VGGFace2 classification
+    resnet.classify = True
+    img_probs = resnet(img_cropped.unsqueeze(0))
+    ```
 
 ### Prerequisites
 
