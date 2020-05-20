@@ -58,7 +58,7 @@ This notebook demonstrates the use of packages:
 
 ### *Complete detection and recognition pipeline*
 In this notebook was introduced a complete example pipeline utilizing datasets, dataloaders, basic data augmentation, training classifier on top of resnets embeddings and face tracking in video streams. 
-![](https://github.com/BeefMILF/facenet/blob/master/examples/videos/2_aug.MP4)
+
 
 ## Prerequisites
 
