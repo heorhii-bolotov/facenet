@@ -146,7 +146,7 @@ As we see, some points(vectors) will be hard to distinguish.
 
 ## Authors
 
-* **Bolotov Heorgii** - *Initial work* - [BeefMILF](https://github.com/heorhii-bolotov)
+* **Bolotov Heorgii** - *Initial work* - [Heorh](https://github.com/heorhii-bolotov)
 * **Zikratyi Dmytro** - *Initial work* - [shooterdimon](https://github.com/shooterdimon)
 * **Moroz Denis** - *Initial work* - [HPMortys](https://github.com/HPMortys)
 * **Trishchuk Denis** - *Initial work* - [krissayrose](https://github.com/krissayrose)
